@@ -1,0 +1,9 @@
+{
+    "template": "notice_edit",
+    "description": "Add additional display styles to notices",
+    "execution_order": 10,
+    "enabled": true,
+    "action": "str_replace",
+    "find": "<xf:option value=\"custom\" label=\"",
+    "replace": "<xf:option value=\"thnoticesplus_success\">{{ phrase('thnoticesplus_success') }}</xf:option>\n<xf:option value=\"thnoticesplus_warning\">{{ phrase('thnoticesplus_warning') }}</xf:option>\n<xf:option value=\"thnoticesplus_error\">{{ phrase('thnoticesplus_error') }}</xf:option>\n$0"
+}

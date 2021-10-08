@@ -1,0 +1,9 @@
+{
+    "template": "notice_edit",
+    "description": "Add additional overlay options to notice editor.",
+    "execution_order": 10,
+    "enabled": true,
+    "action": "str_replace",
+    "find": "<div class=\"js-hiderContainer\">",
+    "replace": "<xf:macro template=\"thnoticesplus_notice_edit_macros\" name=\"overlay_options\" arg-notice=\"{$notice}\" />\n\t\t\t\t$0"
+}

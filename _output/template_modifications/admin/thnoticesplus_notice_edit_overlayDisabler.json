@@ -1,0 +1,9 @@
+{
+    "template": "notice_edit",
+    "description": "Add disabler to overlay notice type option.",
+    "execution_order": 10,
+    "enabled": true,
+    "action": "preg_replace",
+    "find": "/(<xf:if is=\"\\$typeId == 'floating'\">.*?)(<xf:else)/s",
+    "replace": "$1<xf:elseif is=\"$typeId == 'thnoticesplus_overlay'\" />\n\t\t\t\t\t\t\t<xf:option value=\"{$typeId}\"\n\t\t\t\t\t\t\t\tdata-xf-init=\"disabler\"\n\t\t\t\t\t\t\t\tdata-container=\".js-thnoticesplus-hiderContainer\"\n\t\t\t\t\t\t\t\tdata-hide=\"yes\">{$typeValue}</xf:option>\t\n\t\t\t\t\t\t$2"
+}

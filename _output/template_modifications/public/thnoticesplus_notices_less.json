@@ -1,0 +1,9 @@
+{
+    "template": "notices.less",
+    "description": "Add additional notice styles",
+    "execution_order": 10,
+    "enabled": true,
+    "action": "str_replace",
+    "find": "&.notice--dark",
+    "replace": "\t&.notice--thnoticesplus_success\n\t{\n\t\tcolor: @xf-successColor;\n\t\tborder: none;\n\t\tbackground: @xf-successBg;\n\n\t\ta:not(.button--notice)\n\t\t{\n\t\t\tcolor: @xf-successColor;\n\t\t}\n\t}\n\n\t&.notice--thnoticesplus_warning\n\t{\n\t\tcolor: @xf-warningColor;\n\t\tborder: none;\n\t\tbackground: @xf-warningBg;\n\n\t\ta:not(.button--notice)\n\t\t{\n\t\t\tcolor: @xf-warningColor;\n\t\t}\n\t}\n\n\t&.notice--thnoticesplus_error\n\t{\n\t\tcolor: @xf-errorColor;\n\t\tborder: none;\n\t\tbackground: @xf-errorBg;\n\n\t\ta:not(.button--notice)\n\t\t{\n\t\t\tcolor: @xf-errorColor;\n\t\t}\n\t}\n\n\n\n$0"
+}

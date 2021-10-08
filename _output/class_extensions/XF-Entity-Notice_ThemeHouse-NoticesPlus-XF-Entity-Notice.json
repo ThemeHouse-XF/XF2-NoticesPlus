@@ -1,0 +1,6 @@
+{
+    "from_class": "XF\\Entity\\Notice",
+    "to_class": "ThemeHouse\\NoticesPlus\\XF\\Entity\\Notice",
+    "execute_order": 10,
+    "active": true
+}

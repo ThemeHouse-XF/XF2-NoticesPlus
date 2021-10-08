@@ -1,0 +1,6 @@
+{
+    "from_class": "XF\\Admin\\Controller\\Notice",
+    "to_class": "ThemeHouse\\NoticesPlus\\XF\\Admin\\Controller\\Notice",
+    "execute_order": 10,
+    "active": true
+}

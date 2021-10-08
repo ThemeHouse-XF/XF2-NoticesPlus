@@ -1,0 +1,1 @@
+If unchecked, it will not be possible for the user to close this overlay and reveal the page underneath, and it will also not be possible for a user to dismiss the notice.

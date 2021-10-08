@@ -1,0 +1,23 @@
+{
+    "admin/thnoticesplus_notice_edit_messageExplain.json": {
+        "hash": "4332db76bff8492fe9207433ae9c4ac8"
+    },
+    "admin/thnoticesplus_notice_edit_overlayDisabler.json": {
+        "hash": "65c02d6c341a5b03bd3c869e4717026f"
+    },
+    "admin/thnoticesplus_notice_edit_overlayOptions.json": {
+        "hash": "e6ad82bc8c838e241fd0657d1ea74431"
+    },
+    "admin/thnoticesplus_notice_edit_styles.json": {
+        "hash": "abde7b782aabc3e0ccece4a471405320"
+    },
+    "public/thnoticesplus_notices_less.json": {
+        "hash": "2aa6b42f8c71cc41989b57f30097f19f"
+    },
+    "public/thnoticesplus_page_container_overlayNotices.json": {
+        "hash": "d505b89a714b9556a5af55d0c864a174"
+    },
+    "public/thnoticesplus_page_container_topbarNotices.json": {
+        "hash": "349d8da1e49aab29c2e7aada7035c393"
+    }
+}

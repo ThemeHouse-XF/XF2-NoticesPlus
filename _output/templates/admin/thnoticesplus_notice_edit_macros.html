@@ -1,0 +1,9 @@
+<xf:macro name="overlay_options" arg-notice="!">
+	<div class="js-thnoticesplus-hiderContainer">
+		<xf:checkboxrow label="{{ phrase('thnoticesplus_overlay_options') }}">
+			<xf:option name="thnoticesplus_overlay_dismissible" selected="$notice.thnoticesplus_overlay_dismissible"
+				label="{{ phrase('thnoticesplus_overlay_may_be_dismissed') }}"
+				hint="{{ phrase('thnoticesplus_overlay_may_be_dismissed_hint') }}" />
+		</xf:checkboxrow>
+	</div>
+</xf:macro>

@@ -1,0 +1,56 @@
+{
+    "thnoticesplus_error.txt": {
+        "global_cache": false,
+        "version_id": 1000070,
+        "version_string": "1.0.0",
+        "hash": "902b0d55fddef6f8d651fe1035b7d4bd"
+    },
+    "thnoticesplus_message_explain.txt": {
+        "global_cache": false,
+        "version_id": 1000031,
+        "version_string": "1.0.0 Beta 1",
+        "hash": "088d6c3544ca9c37ae3b90a0d4ca45df"
+    },
+    "thnoticesplus_overlay.txt": {
+        "global_cache": false,
+        "version_id": 1000031,
+        "version_string": "1.0.0 Beta 1",
+        "hash": "6b551379c3c0b59326abdaf3b4395bd3"
+    },
+    "thnoticesplus_overlay_may_be_dismissed.txt": {
+        "global_cache": false,
+        "version_id": 1000031,
+        "version_string": "1.0.0 Beta 1",
+        "hash": "3a4404f3393e268eff38796d797e8e5e"
+    },
+    "thnoticesplus_overlay_may_be_dismissed_hint.txt": {
+        "global_cache": false,
+        "version_id": 1000031,
+        "version_string": "1.0.0 Beta 1",
+        "hash": "9d30bfc3054294d2d20405513808ffb2"
+    },
+    "thnoticesplus_overlay_options.txt": {
+        "global_cache": false,
+        "version_id": 1000031,
+        "version_string": "1.0.0 Beta 1",
+        "hash": "f0a046786f20cbf9b428c4081d9afb95"
+    },
+    "thnoticesplus_success.txt": {
+        "global_cache": false,
+        "version_id": 1000070,
+        "version_string": "1.0.0",
+        "hash": "505a83f220c02df2f85c3810cd9ceb38"
+    },
+    "thnoticesplus_topbar.txt": {
+        "global_cache": false,
+        "version_id": 1000070,
+        "version_string": "1.0.0",
+        "hash": "adb06033ad9c48d8b0fbaa3cfd141c54"
+    },
+    "thnoticesplus_warning.txt": {
+        "global_cache": false,
+        "version_id": 1000070,
+        "version_string": "1.0.0",
+        "hash": "0eaadb4fcb48a0a0ed7bc9868be9fbaa"
+    }
+}

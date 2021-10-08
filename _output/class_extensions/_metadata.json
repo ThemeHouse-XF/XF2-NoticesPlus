@@ -1,0 +1,14 @@
+{
+    "XF-Admin-Controller-Notice_ThemeHouse-NoticesPlus-XF-Admin-Controller-Notice.json": {
+        "hash": "cec4664c0eeddb940fb58d87b857778e"
+    },
+    "XF-Entity-Notice_ThemeHouse-NoticesPlus-XF-Entity-Notice.json": {
+        "hash": "6a67f5a2dfe4a50cacf5c511c47da143"
+    },
+    "XF-NoticeList_ThemeHouse-NoticesPlus-XF-NoticeList.json": {
+        "hash": "0566257f9aafd680066fdf3c2f78cb52"
+    },
+    "XF-Repository-Notice_ThemeHouse-NoticesPlus-XF-Repository-Notice.json": {
+        "hash": "fc48aea8e63f2bec29ed0c3aa68a4e3e"
+    }
+}

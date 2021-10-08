@@ -1,0 +1,12 @@
+{
+    "admin/thnoticesplus_notice_edit_macros.html": {
+        "version_id": 1000031,
+        "version_string": "1.0.0 Beta 1",
+        "hash": "36dacc5abbcfaa250f6281cf11136f54"
+    },
+    "public/thnoticesplus_notice_macros.html": {
+        "version_id": 1000070,
+        "version_string": "1.0.0",
+        "hash": "84fd5951f51ddbcbb505a53fcf98d11f"
+    }
+}

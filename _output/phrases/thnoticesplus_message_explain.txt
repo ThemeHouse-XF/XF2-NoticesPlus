@@ -1,0 +1,1 @@
+You may also use {phrase:phrase_title} which will be replaced with the phrase text in the recipient's language, and {template:template_name} which will be replaced with the given public template.
